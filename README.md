@@ -7,7 +7,7 @@
 - 🔭 Currently working on **Front End projects**  
 - 🌱 Constantly learning **React, JavaScript, and modern web technologies**  
 - 💬 Ask me about **JavaScript, CSS, HTML, React**  
-- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/)  
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/sangelesgutierrez/)  
 
 ---
 
@@ -32,7 +32,7 @@ I enjoy experimenting with new libraries and frameworks to make the web more fun
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangelesgutierrez/)
 
 
 <!--
